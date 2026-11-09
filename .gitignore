@@ -1,0 +1,3 @@
+# Build artifacts (cargo) and local test screenshots — not part of the source
+/target/
+/shots/
